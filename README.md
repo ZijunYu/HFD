@@ -11,6 +11,6 @@ Figure 3 WIDER val hard
 ![Figure 3 WIDER val hard](https://github.com/ZijunYu/HFD/blob/main/Figure3%20WIDER%20hard.png)
 Figure 4 FDDB
 ![Figure 4 FDDB](https://github.com/ZijunYu/HFD/blob/main/Figure%204%20FDDB.png)
-qualitative comaprison
+qualitative comparison
 
 ![qualitative comparison](https://github.com/ZijunYu/HFD/blob/main/qualitative%20comparison.PNG)
