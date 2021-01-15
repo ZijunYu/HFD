@@ -1,5 +1,6 @@
 # HFD
 Paper: Hourglass face detector for hard face detection
+
 Figure 3 WIDER val easy medium hard
 ![Figure 3 WIDER val easy medium hard](https://github.com/ZijunYu/HFD/blob/main/Figure%203%20(WIDER%20easy%20medium%20hard).png)
 Figure 3 WIDER val easy
